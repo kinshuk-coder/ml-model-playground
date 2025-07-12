@@ -1,7 +1,8 @@
 # 🧪 Machine Learning Model Playground
 
 An interactive web app built with **Streamlit** that lets you explore, train, and evaluate machine learning models on your own datasets — without writing any code.
-
+Visit the link to use the app:-
+https://mlmodelplayground.streamlit.app/
 ---
 
 ## 🚀 Features
